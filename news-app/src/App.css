@@ -1,0 +1,13 @@
+
+
+.app{
+    display: flex;
+  flex-direction: row;      
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.news-card {
+  flex-shrink: 0;
+}
